@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T03:07:58.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LIyCSSd84l-tqzj9ti2P" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T03:10:56.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iYxLJWdTlb6qOqs6eclF" version="22.1.4" type="github">
   <diagram name="第 1 页" id="wMBq58jxj7TZekm_dWzr">
     <mxGraphModel dx="1853" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,19 @@
         <mxCell id="zNO3inHTsQPZRsrdVChj-86" value="3.2 对server连通性测试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zNO3inHTsQPZRsrdVChj-85" vertex="1" connectable="0">
           <mxGeometry x="0.2213" relative="1" as="geometry">
             <mxPoint x="-5" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zNO3inHTsQPZRsrdVChj-46" target="zNO3inHTsQPZRsrdVChj-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="410" />
+              <mxPoint x="280" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-3" value="控制链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UXK1C_oignjXM_dTzYS3-2">
+          <mxGeometry x="-0.1286" y="1" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zNO3inHTsQPZRsrdVChj-46" value="UeProxy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -132,11 +145,16 @@
           <mxGeometry x="237" y="830" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zNO3inHTsQPZRsrdVChj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="zNO3inHTsQPZRsrdVChj-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="450" />
+              <mxPoint x="260" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zNO3inHTsQPZRsrdVChj-57" value="3.下发指令:链路测试、抓包、连通性测试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zNO3inHTsQPZRsrdVChj-56" vertex="1" connectable="0">
+        <mxCell id="zNO3inHTsQPZRsrdVChj-57" value="3.下发指令:&lt;br&gt;链路测试、抓包、连通性测试" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zNO3inHTsQPZRsrdVChj-56" vertex="1" connectable="0">
           <mxGeometry x="-0.5686" y="-1" relative="1" as="geometry">
-            <mxPoint x="-59" y="20" as="offset" />
+            <mxPoint x="-69" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zNO3inHTsQPZRsrdVChj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zNO3inHTsQPZRsrdVChj-72" target="zNO3inHTsQPZRsrdVChj-44" edge="1">

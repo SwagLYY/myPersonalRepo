@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T11:22:51.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rlPzNqcaToagpjzCcS63" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T11:24:08.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="se8kLI2yxm0Fy49i_ytt" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1853" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,25 +43,25 @@
           <mxGeometry x="10" y="-30" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-46" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="300" width="842.5" height="230" as="geometry" />
+          <mxGeometry x="-190" y="300" width="882.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="netstat -anput | grep nginx" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="ibWMEhjD8wriJO99BDjX-46" vertex="1">
-          <mxGeometry x="297.5" width="165" height="75" as="geometry" />
+          <mxGeometry x="323.5846290801187" width="172.83382789317508" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-93" value="nginx挂了" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="347.1528783382789" y="110" width="125.69732937685461" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-94" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ibWMEhjD8wriJO99BDjX-46" source="WIyWlLk6GJQsqaUBKTNV-10" target="ibWMEhjD8wriJO99BDjX-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-97" value="防火墙没开" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="542.5" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="568.2566765578636" y="110" width="125.69732937685461" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-102" value="ng配置有误" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="710" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="743.7091988130564" y="110" width="125.69732937685461" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-91" value="比较端口符合" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="520" width="165" height="75" as="geometry" />
+          <mxGeometry x="544.6884272997033" width="172.83382789317508" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ibWMEhjD8wriJO99BDjX-46" source="WIyWlLk6GJQsqaUBKTNV-10" target="ibWMEhjD8wriJO99BDjX-91">
           <mxGeometry relative="1" as="geometry" />
@@ -83,18 +83,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-117" value="正常" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="157.12166172106825" y="110" width="125.69732937685461" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-125" value="正常" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="17.149554896142433" y="110" width="125.69732937685461" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-124" value="1、服务不正常&lt;br&gt;2、端口不匹配&lt;br&gt;3、防火墙没开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ibWMEhjD8wriJO99BDjX-46">
-          <mxGeometry x="40" y="150" as="geometry">
+          <mxGeometry x="41.89910979228487" y="150" as="geometry">
             <mxPoint x="33" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ibWMEhjD8wriJO99BDjX-0" value="end" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="570" width="100" height="60" as="geometry" />
+          <mxGeometry x="-30.03" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -104,7 +104,7 @@
         <mxCell id="ibWMEhjD8wriJO99BDjX-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibWMEhjD8wriJO99BDjX-93" target="ibWMEhjD8wriJO99BDjX-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="600" />
+              <mxPoint x="220" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,7 +134,7 @@
         <mxCell id="ibWMEhjD8wriJO99BDjX-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ibWMEhjD8wriJO99BDjX-125" target="ibWMEhjD8wriJO99BDjX-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-80" y="600" />
+              <mxPoint x="-110" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>

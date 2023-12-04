@@ -1,0 +1,220 @@
+<mxfile host="app.diagrams.net" modified="2023-12-04T01:43:47.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qrQopC702mAKLPWGz4Ds" version="22.1.5" type="github">
+  <diagram name="第 1 页" id="wMBq58jxj7TZekm_dWzr">
+    <mxGraphModel dx="2110" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zNO3inHTsQPZRsrdVChj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-13" value="组装此运维行为对应的指令&lt;br&gt;请求UeServer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zNO3inHTsQPZRsrdVChj-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="210" y="120" width="720" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-38" value="UEServer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="280" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-39" value="日审Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="180" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-40" value="数审Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="180" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-41" value="Edr Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="180" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;安恒云域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="480" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zNO3inHTsQPZRsrdVChj-44" target="zNO3inHTsQPZRsrdVChj-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-47" value="2.组装运维行为对应指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zNO3inHTsQPZRsrdVChj-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.06" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-44" value="UEManager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="493.5" width="590" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="zNO3inHTsQPZRsrdVChj-46" target="zNO3inHTsQPZRsrdVChj-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="430" />
+              <mxPoint x="420" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-8" value="控制链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-6" vertex="1" connectable="0">
+          <mxGeometry x="0.3839" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="zNO3inHTsQPZRsrdVChj-46" target="UXK1C_oignjXM_dTzYS3-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-45" value="业务链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-43" vertex="1" connectable="0">
+          <mxGeometry x="0.6482" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-46" value="UeProxy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="510" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="630" width="250" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-24" value="日审Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="690" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-25" value="数审Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="749" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="zNO3inHTsQPZRsrdVChj-26" target="zNO3inHTsQPZRsrdVChj-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-44" value="业务链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-42" vertex="1" connectable="0">
+          <mxGeometry x="0.5544" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-26" value="Edr Agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="800" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="zNO3inHTsQPZRsrdVChj-27" target="zNO3inHTsQPZRsrdVChj-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="768" />
+              <mxPoint x="10" y="768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-65" value="抓取本机对应&lt;br&gt;端口数据包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;labelBorderColor=none;" parent="zNO3inHTsQPZRsrdVChj-64" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="16" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="zNO3inHTsQPZRsrdVChj-27" target="zNO3inHTsQPZRsrdVChj-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-21" value="2 返回测试结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-20" vertex="1" connectable="0">
+          <mxGeometry x="0.1433" y="4" relative="1" as="geometry">
+            <mxPoint x="-16" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-27" value="UeAgent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;资产机&lt;br&gt;192.19.10.44&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-53" value="客户资产域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="237" y="830" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zNO3inHTsQPZRsrdVChj-72" target="zNO3inHTsQPZRsrdVChj-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-75" value="1.操作页面的运维行为" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zNO3inHTsQPZRsrdVChj-74" vertex="1" connectable="0">
+          <mxGeometry x="-0.1143" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNO3inHTsQPZRsrdVChj-72" value="运维人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="145" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zNO3inHTsQPZRsrdVChj-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="325.0588235294118" as="sourcePoint" />
+            <mxPoint x="30" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-16" value="1 下发指令 携带对应ip、端口&lt;br&gt;telnet 192.19.10.1 65001" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="UXK1C_oignjXM_dTzYS3-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.1798" y="-3" relative="1" as="geometry">
+            <mxPoint x="73" y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="zNO3inHTsQPZRsrdVChj-27" target="zNO3inHTsQPZRsrdVChj-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-13" value="控制链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-12" vertex="1" connectable="0">
+          <mxGeometry x="0.7146" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="zNO3inHTsQPZRsrdVChj-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="420" />
+              <mxPoint x="325" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-23" value="3 下发指令&lt;br&gt;telnet 10.50.44.144 13001" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="330" y="469.9988888888888" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.605;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="zNO3inHTsQPZRsrdVChj-46" target="zNO3inHTsQPZRsrdVChj-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="470" />
+              <mxPoint x="353" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-31" value="4 返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-30" vertex="1" connectable="0">
+          <mxGeometry x="0.5126" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="zNO3inHTsQPZRsrdVChj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-33" value="下发抓包指令&amp;nbsp; 携带对应ip、端口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UXK1C_oignjXM_dTzYS3-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.0907" y="4" relative="1" as="geometry">
+            <mxPoint x="41" y="-55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-35" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;紫色线路表示链路检测&lt;/p&gt;&lt;p&gt;黄色线路表示抓包&lt;/p&gt;&lt;p&gt;蓝色表示正常业务链路&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、UeManager维护每个原子能力Agent对应的proxy ip 、代理端口&lt;/span&gt;&lt;/p&gt;&lt;p&gt;2、UeManager维护Ueproxy到YT server的目的ip、端口&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="590" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-36" value="10.50.44.12 13001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-37" value="10.50.44.144 1515" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-38" value="10.50.44.18 10571" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="815" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-39" value="192.19.10.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UXK1C_oignjXM_dTzYS3-41" value="YT Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h60YB_8Bev3nHb1fODkR-1" value="10.50.44.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

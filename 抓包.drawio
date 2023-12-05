@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T14:46:03.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JhERaMKYSnI_GhBJj8q8" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T14:47:58.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0bCb9GxDZ_pHs4HeekXr" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wMBq58jxj7TZekm_dWzr">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
         <mxCell id="zNO3inHTsQPZRsrdVChj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="120" width="720" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="evtpe5G1LGWTd8iD0ivO-10">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="evtpe5G1LGWTd8iD0ivO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-18" value="7 分片上传文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evtpe5G1LGWTd8iD0ivO-17">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-18" value="7 分片上传文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="evtpe5G1LGWTd8iD0ivO-17" vertex="1" connectable="0">
           <mxGeometry x="-0.219" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -98,7 +98,7 @@
             <mxPoint x="16" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zNO3inHTsQPZRsrdVChj-27">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zNO3inHTsQPZRsrdVChj-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="610" as="sourcePoint" />
             <mxPoint x="220" y="320" as="targetPoint" />
@@ -107,12 +107,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-2" value="4 返回抓包文件名称及目录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evtpe5G1LGWTd8iD0ivO-1">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-2" value="4 返回抓包文件名称及目录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="evtpe5G1LGWTd8iD0ivO-1" vertex="1" connectable="0">
           <mxGeometry x="0.07" relative="1" as="geometry">
             <mxPoint x="45" y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.7;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="zNO3inHTsQPZRsrdVChj-27" target="zNO3inHTsQPZRsrdVChj-38">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.7;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="zNO3inHTsQPZRsrdVChj-27" target="zNO3inHTsQPZRsrdVChj-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="84" y="390" />
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-12" value="6 分片上传文件&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evtpe5G1LGWTd8iD0ivO-11">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-12" value="6 分片上传文件&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="evtpe5G1LGWTd8iD0ivO-11" vertex="1" connectable="0">
           <mxGeometry x="0.2562" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -196,19 +196,19 @@
         <mxCell id="h9T20WNeHSgDQ27rbLoq-7" value="&lt;h1&gt;改造点&lt;/h1&gt;&lt;p&gt;1. ueproxy改造为层级关系 新增 下一跳 ip、角色(1.proxy 2.中转网关 3.ytserver&lt;/p&gt;&lt;p&gt;2. ueserver下发对ueproxy的初始化配置时Dip可动态配置为下一跳proxy ip&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="775" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="zNO3inHTsQPZRsrdVChj-27">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="zNO3inHTsQPZRsrdVChj-38" target="zNO3inHTsQPZRsrdVChj-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="350" />
+              <mxPoint x="50" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-9" value="5 下发文件上传指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evtpe5G1LGWTd8iD0ivO-8">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-9" value="5 下发文件上传指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="evtpe5G1LGWTd8iD0ivO-8" vertex="1" connectable="0">
           <mxGeometry x="-0.166" y="-1" relative="1" as="geometry">
             <mxPoint x="41" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="evtpe5G1LGWTd8iD0ivO-10" value="mino" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+        <mxCell id="evtpe5G1LGWTd8iD0ivO-10" value="mino" style="rounded=0;whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="100" height="60" as="geometry" />
         </mxCell>
       </root>

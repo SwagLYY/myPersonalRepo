@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T14:47:58.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0bCb9GxDZ_pHs4HeekXr" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T14:49:17.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="luHSRddaop-bwZd8zeO0" version="22.1.5" type="github">
   <diagram name="第 1 页" id="wMBq58jxj7TZekm_dWzr">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
             <mxPoint x="56" y="-49" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXK1C_oignjXM_dTzYS3-35" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;紫色线路表示控制链路&lt;/p&gt;&lt;p&gt;黄色线路表示uemaneger指令的业务链路&lt;/p&gt;&lt;p&gt;蓝色表示正常数据上报的业务链路&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、UeManager维护每个ueAgent对应的proxy ip 、代理端口数据&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="UXK1C_oignjXM_dTzYS3-35" value="&lt;h1&gt;&lt;a href=&quot;https://bugstack.cn/md/netty/expand/2019-08-19-netty%E6%A1%88%E4%BE%8B%EF%BC%8Cnetty4.1%E4%B8%AD%E7%BA%A7%E6%8B%93%E5%B1%95%E7%AF%87%E5%9B%9B%E3%80%8ANetty%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6%E3%80%81%E5%88%86%E7%89%87%E5%8F%91%E9%80%81%E3%80%81%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E3%80%8B.html&quot;&gt;https://bugstack.cn/md/netty/expand/2019-08-19-netty%E6%A1%88%E4%BE%8B%EF%BC%8Cnetty4.1%E4%B8%AD%E7%BA%A7%E6%8B%93%E5%B1%95%E7%AF%87%E5%9B%9B%E3%80%8ANetty%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6%E3%80%81%E5%88%86%E7%89%87%E5%8F%91%E9%80%81%E3%80%81%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E3%80%8B.html&lt;/a&gt;备注&lt;/h1&gt;&lt;p&gt;紫色线路表示控制链路&lt;/p&gt;&lt;p&gt;黄色线路表示uemaneger指令的业务链路&lt;/p&gt;&lt;p&gt;蓝色表示正常数据上报的业务链路&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、UeManager维护每个ueAgent对应的proxy ip 、代理端口数据&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、netty分片上传&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="575" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UXK1C_oignjXM_dTzYS3-36" value="10.50.44.12 13001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
